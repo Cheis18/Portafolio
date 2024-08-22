@@ -22,5 +22,5 @@ Para ver mi portafolio, simplemente abre el archivo `index.html` en cualquier na
 Si deseas contactarme, puedes hacerlo a través de las siguientes plataformas:
 
 - **Correo Electrónico**: cheimienst18@gmail.com
-- **LinkedIn**: linkedin.com/in/cheims-hern%C3%A1ndez
-- **GitHub**: github.com/Cheim18
+- **LinkedIn**: (linkedin.com/in/cheims-hern%C3%A1ndez)
+- **GitHub**: (github.com/Cheim18)
